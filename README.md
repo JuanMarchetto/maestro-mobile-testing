@@ -7,8 +7,8 @@ Covers 11 core patterns, iOS/Android gotchas, OTP authentication testing, CI/CD 
 ## Install
 
 ```
-/plugin marketplace add JuanMarchetto/agent-skills-marketplace
-/plugin install maestro-mobile-testing@agent-skills-marketplace
+/plugin marketplace add JuanMarchetto/agent-skills
+/plugin install maestro-mobile-testing@agent-skills
 ```
 
 Or manually:
