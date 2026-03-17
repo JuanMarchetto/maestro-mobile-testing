@@ -1,7 +1,7 @@
 {
   "name": "maestro-mobile-testing",
   "description": "Comprehensive Maestro E2E testing patterns for React Native/Expo",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "author": { "name": "Juan Marchetto" },
   "homepage": "https://github.com/JuanMarchetto/maestro-mobile-testing",
   "repository": "https://github.com/JuanMarchetto/maestro-mobile-testing",

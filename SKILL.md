@@ -3,7 +3,7 @@ name: maestro-mobile-testing
 description: "Maestro mobile E2E testing patterns for React Native/Expo apps: YAML test flows, testID selectors, adaptive auth state, optimistic update verification, GraalJS scripting, cross-platform stability, CI/CD integration, Maestro Cloud, and MCP server integration. Use when: write Maestro test, flaky mobile test, test my app, automate mobile testing, mobile E2E, debug test failure, Maestro setup."
 license: MIT
 metadata:
-  version: 1.2.0
+  version: 1.0.0
   category: toolchain
   author: tovimx
   tags: [react-native, expo, testing, maestro, e2e, mobile, ios, android, ci-cd, mcp]
