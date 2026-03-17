@@ -11,6 +11,11 @@ Covers 11 core patterns, iOS/Android gotchas, OTP authentication testing, CI/CD 
 /plugin install maestro-mobile-testing@agent-skills
 ```
 
+Or via [skills.sh](https://skills.sh):
+```bash
+npx skills add JuanMarchetto/maestro-mobile-testing
+```
+
 Or manually:
 ```bash
 git clone https://github.com/JuanMarchetto/maestro-mobile-testing.git
